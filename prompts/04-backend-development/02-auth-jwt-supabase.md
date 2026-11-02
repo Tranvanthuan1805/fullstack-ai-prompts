@@ -40,3 +40,4 @@ Giải thích cơ chế JWT token bằng hình ảnh đời thường: "JWT gi�
 ---
 
 [⬅️ Quay lại Danh mục Prompt](../../README.md)
+

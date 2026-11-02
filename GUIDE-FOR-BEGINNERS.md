@@ -103,3 +103,4 @@ Nếu thấy nút màu xanh chưa đẹp, hoặc chữ hơi nhỏ:
 ## 🚀 Bây giờ hãy bắt đầu!
 
 👉 Hãy mở ngay [**templates/sample-project-todo-app/README.md**](templates/sample-project-todo-app/README.md) để tự tay làm ra website đầu tiên trong đời chỉ với 15 phút!
+

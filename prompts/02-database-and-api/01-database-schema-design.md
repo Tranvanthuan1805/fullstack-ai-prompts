@@ -34,3 +34,4 @@ Bạn là Chuyên gia Thiết kế Cơ sở Dữ liệu (Database Architect) gi�
 ---
 
 [⬅️ Quay lại Danh mục Prompt](../../README.md)
+

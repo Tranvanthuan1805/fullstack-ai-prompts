@@ -128,12 +128,12 @@ Bạn muốn xem kết quả ngay lập tức?
 
 ## 👨‍💻 Về tác giả
 
-Dự án được xây dựng và chia sẻ cộng đồng bởi **Trần Văn Thuận (Felix)**.
+Dự án được xây dựng và chia sẻ cộng đồng bởi **Trần Văn Thuần (Felix)**.
 - 🎓 Sinh viên Kỹ thuật Phần mềm tại Đại học FPT.
 - 🏢 Founder & CEO tại **DUOTECH TECHNOLOGY**.
 - 🌐 GitHub: [@Tranvanthuan1805](https://github.com/Tranvanthuan1805)
-- 📺 YouTube: [Trần Văn Thuận Channel](https://www.youtube.com/@Tran_Van_Thuan)
-- 💬 Facebook: [Trần Văn Thuận](https://www.facebook.com/tran.van.thuan.499718)
+- 📺 YouTube: [Trần Văn Thuần Channel](https://www.youtube.com/@Tran_Van_Thuan)
+- 💬 Facebook: [Trần Văn Thuần](https://www.facebook.com/tran.van.thuan.499718)
 - ✉️ Email công việc: [tranvanthuan.forwork@gmail.com](mailto:tranvanthuan.forwork@gmail.com)
 
 ---
@@ -147,3 +147,4 @@ Nếu bạn có prompt hay muốn đóng góp, hãy mở một **Pull Request** 
 <div align="center">
   <b>⭐ Đừng quên bấm STAR cho repo và FOLLOW tác giả nhé! Cảm ơn bạn rất nhiều! ⭐</b>
 </div>
+

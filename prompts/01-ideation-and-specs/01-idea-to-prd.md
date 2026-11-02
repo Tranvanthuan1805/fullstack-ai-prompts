@@ -46,3 +46,4 @@ Hãy phân tích và lập cho tôi bản PRD hoàn chỉnh bao gồm các phầ
 ---
 
 [⬅️ Quay lại Danh mục Prompt](../../README.md)
+
